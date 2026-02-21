@@ -1,3 +1,10 @@
 {
-  "logs": []
+  "logs": [
+    {
+      "timestamp": "2026-02-21T14:35:27.577499",
+      "platform": "Telegram",
+      "action": "分享AI代写服务",
+      "link": "https://hushihong.github.io/ai-money-guide/service.html"
+    }
+  ]
 }
