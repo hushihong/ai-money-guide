@@ -35,7 +35,7 @@ open index.html
    git add .
    git commit -m "Add AI money making projects"
    git branch -M main
-   git remote add origin https://github.com/你的用户名/ai-money-guide.git
+   git remote add origin https://github.com/hushihong/ai-money-guide.git
    git push -u origin main
    ```
 
